@@ -1,1 +1,1 @@
-# dashboard
+In this project, I will try to create a dashboard page following the TOP guidelines
